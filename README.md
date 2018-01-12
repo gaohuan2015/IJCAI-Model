@@ -1,5 +1,5 @@
 # IJCAI Model
-An implementation of our model with TensorFlow.
+An implementation of our model with PyTorch.
 
 ## Dataset
 
